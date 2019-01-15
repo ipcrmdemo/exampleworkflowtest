@@ -26,7 +26,7 @@ tests using Maven:
 ```
 $ mvn test
 ```
-
+f
 ---
 
 Created by [Atomist][atomist].
