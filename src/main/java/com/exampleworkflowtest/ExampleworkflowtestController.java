@@ -14,7 +14,7 @@ class ExampleworkflowtestController {
 
 	@GetMapping("hello/{name}")
 	public String person(@PathVariable String name) {
-		return "Hello there; " + name + "!";
+		return "Hello there " + name + "!";
 	}
 
 }
